@@ -10,4 +10,4 @@ Private repo on Github (invited contributors only): [https://github.com/cookjool
 
 Issues: [https://github.com/cookjools/mias-archive-migration/issues](https://github.com/cookjools/mias-archive-migration/issues)
 
-Wiki: [https://github.com/cookjools/mias-archive-migration/wiki](https://github.com/cookjools/mias-archive-migration/wiki)
+Wiki: [https://github.com/cookjools/mias-archive-migration/wiki](https://github.com/cookjools/mias-archive-migration/wiki) _WARNING: will only work if the Github repo is set to Public_
