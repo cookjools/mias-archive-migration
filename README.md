@@ -2,7 +2,7 @@
 
 Gitihub repo: **cookjools/mias-archive-migration**
 
-A Github repository for sharing files associated with migration of MIAS Archive 2023
+A Github repository for sharing files associated with migration of MIAS Archive 2023. For example JC passing things to Ali such as data for library tables, new digital surrogates table, list of RG numbers NOT in Osman Yahia etc.
 
 Public home page on Github Pages: [https://cookjools.github.io/mias-archive-migration](https://cookjools.github.io/mias-archive-migration) _WARNING: will only work if the Github repo is set to Public_.
 
